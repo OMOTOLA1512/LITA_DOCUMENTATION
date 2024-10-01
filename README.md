@@ -12,5 +12,6 @@ This project talk about the economy of this Country
  - Structured query Language 
 
    |Heading 1|Heading 2|Heading 3|
-   |Table 1|Table 2|Table 3|
    |--------|------|--------|
+   |Table 1|Table 2|Table 3|
+  
