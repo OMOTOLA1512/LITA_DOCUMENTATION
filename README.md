@@ -19,7 +19,22 @@ The primary source of data used here is Sales.cv and this is open source data th
  -  SQL-Structured query Language
      1. For Data storage
      2. For Data  manipulation
- -Github for portfolio building 
+ -  Github for portfolio building
+## Data cleaning and Preparation 
+--------
+In the Initial phase of the data cleaning and preparations, we perform the following actions:
+1. Data Loading and Inspection
+2. Handling Missing Variables
+3. Data cleaning and formatting
+## Exploratory Data Analysis 
+-------
+EDA involves the exploring of the data to answer some quesions about the data such as;
+- What is the overall sales trend
+- Which product are top sellers
+- What are the product on the peak sales
+## Data Analysis 
+------
+This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis ;
 
    |Heading 1|Heading 2|Heading 3|
    |--------|------|--------|
