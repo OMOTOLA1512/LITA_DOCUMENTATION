@@ -1,8 +1,9 @@
-# LITA_DOCUMENTATION
-## project Title : Economy
+# LITA_DB_PROJECT
+## project Title : E-commmerce
 
 ## Project Overview
-This project talk about the economy of this Country
+Data Analysis project aim to generate insight into the sales performance of the E-commerce project over the past  year.
+By analysing the various parameters in the data received we seek to gather enough insight to make reasonable decisions which then enable us to tell compelling stories around our data from the insight gotten and to know the best performance  from our data.
 
  ------
  Tools Used
