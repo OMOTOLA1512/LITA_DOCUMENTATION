@@ -3,11 +3,15 @@
 [Project Overview](#project-overview)
 
  [Data Sources](#data-analysis)
-  Data Sources
-  Data cleaning and Preparation 
-  Exploratory Data Analysis 
-   Data Analysis 
-   Data Visualization  
+ 
+ [Data cleaning and Preparation](#data-cleaning-and-preparation) 
+ 
+  [Exploratory Data Analysis](#exploratory-data-analysis) 
+  
+   [Data Analysis](#data-analysis) 
+   
+   [Data Visualization](#data-visualization)  
+   
 ## Project Overview
 --------
 Data Analysis project aim to generate insight into the sales performance of the E-commerce project over the past  year.
@@ -48,6 +52,7 @@ SELECT *FROM TABLE 1
 WHERE CONDITION = TRUE
 ```
 ## Data Visualization  
+------
 <img width="485" alt="E-Commmerce TABLE" src="https://github.com/user-attachments/assets/83aefc64-0e87-451e-8d16-2768c7d8a925">
 
 💻
