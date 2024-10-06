@@ -1,6 +1,12 @@
 # LITA_DB_PROJECT
 ## project Title : E-commmerce
-
+[Project Overview] (#project-overview)
+ Data Sources
+  Data Sources
+  Data cleaning and Preparation 
+  Exploratory Data Analysis 
+   Data Analysis 
+   Data Visualization  
 ## Project Overview
 --------
 Data Analysis project aim to generate insight into the sales performance of the E-commerce project over the past  year.
@@ -39,10 +45,15 @@ This is where we include some basic lines of code or queries or even some of the
 ```SQL
 SELECT *FROM TABLE 1
 WHERE CONDITION = TRUE
-
+```
 ## Data Visualization  
+<img width="485" alt="E-Commmerce TABLE" src="https://github.com/user-attachments/assets/83aefc64-0e87-451e-8d16-2768c7d8a925">
 
+💻
+📖
+🖱️
    |Heading 1|Heading 2|Heading 3|
    |--------|------|--------|
    |Table 1|Table 2|Table 3|
+   
   
