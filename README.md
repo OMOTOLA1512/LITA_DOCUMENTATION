@@ -35,7 +35,10 @@ EDA involves the exploring of the data to answer some quesions about the data su
 ## Data Analysis 
 ------
 This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis ;
-SELECT *FROM TABLE 
+
+```SQL
+SELECT *FROM TABLE 1
+WHERE CONDITION = TRUE
 ## Data Visualization  
 
    |Heading 1|Heading 2|Heading 3|
