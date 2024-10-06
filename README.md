@@ -1,7 +1,7 @@
 # LITA_DB_PROJECT
 ## project Title : E-commmerce
-[Project Overview] (#project-overview)
- Data Sources
+[Project Overview](#project-overview)
+ [Data Sources](#data-analysis)
   Data Sources
   Data cleaning and Preparation 
   Exploratory Data Analysis 
